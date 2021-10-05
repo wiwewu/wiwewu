@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @wiwewu .
+- 👀 I'm interested in leveraging data and data analytics for Finance and Sales&Marketing.
+- 🌱 I’m currently learning Python (to augment SAS) formulate securities trading strategies formulation and execution.
+- 💞️ I’m looking to collaborate AI(Machine-Learning)-powered securities trading strategies.
+- 📫 I can be reached at wwu@x3cubic.ai or williamweiqiaowu@gmail.com.
